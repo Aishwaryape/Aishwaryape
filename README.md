@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Aishwaryape/Aishwaryape** is a ✨ _special_ ✨ repository becauseI am Aishwarya Pendkar. My main interest lies in Machine Learning and Computer vision. I also have basic knowledge of Deep learning and Machine Learning. I am always curious to learn something new.its `README.md` (this file) appears on your GitHub profile.
+I am Aishwarya Pendkar. My main interest lies in Machine Learning and Computer vision. I also have basic knowledge of Deep learning and Machine Learning. I am always curious to learn something new.its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
