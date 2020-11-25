@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Aishwarya Pendkar. My main interest lies in Machine Learning and Computer vision. I also have basic knowledge of Deep learning and Machine Learning. I am always curious to learn something new.
+I am Aishwarya Pendkar. My main interest lies in Data Science and Computer vision. I also have basic knowledge of Deep learning and Machine Learning. I am always curious to learn something new.
 
 Here are some ideas to get you started:
 
