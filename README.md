@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ML and computer vision Based Projects.
 - 🌱 I’m currently learning Data Science and NLP
 - 👯 I’m looking to collaborate on Machine Learning and Data Science
-- 🤔 I’m looking for help with Web Devlopment
+- 🤔 I’m looking for help with Web Development
 - 💬 Ask me about Opencv,ML and DL
 - 📫 How to reach me: contact on my mail - Pendkaraishwarya@gmail.com
 - 😄 Pronouns:You can give one.
