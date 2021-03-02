@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Machine Learning and Data Science
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about Opencv,ML and DL
-- 📫 How to reach me: contact on my mail - Pendkaraishwarya@gmail.com
+- 📫 How to reach me: contact on my mail - pendkaraishwarya@gmail.com
 - 😄 Pronouns:You can give one.
 - ⚡ Fun fact:I can work without music.
 
