@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ML ,python,Django and computer vision Based Projects.
 - 🌱 I’m currently learning Data Science and NLP
-- 👯 I’m looking to collaborate on Machine Learning and Data Science
+- 👯 I’m looking to collaborate on Django, Machine Learning and Data Science
 - 🤔 I’m looking for help with Web Development
-- 💬 Ask me about Opencv,ML and DL
+- 💬 Ask me about Opencv,ML DL, and Django
 - 📫 How to reach me:      <br>My Mail-id - pendkaraishwarya@gmail.com <br> LinkedIn - www.linkedin.com/in/aishwaryapendkar
 
 - 😄 Pronouns:You can give one.
